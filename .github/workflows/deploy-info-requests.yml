@@ -1,0 +1,30 @@
+name: Deploy information requests page
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - info-requests.md
+
+jobs:
+  job:
+    name: Deploy public info requests
+    runs-on: ubuntu-latest
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+    steps:
+      - uses: actions/checkout@v3
+      - run: mkdir www
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-
+            --standalone
+            --metadata title="Public Information Requests"
+            --output=www/info-requests.html
+            info-requests.md
+      - uses: google-github-actions/auth@v1
+        with:
+          workload_identity_provider: 'projects/426631733351/locations/global/workloadIdentityPools/github-lgrosz-bhb-static/providers/github'
+          service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
+      - uses: google-github-actions/deploy-appengine@v1
