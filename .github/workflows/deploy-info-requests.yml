@@ -5,6 +5,7 @@ on:
       - master
     paths:
       - info-requests.md
+      - '.github/workflows/deploy-info-requests.yml'
 
 jobs:
   job:
