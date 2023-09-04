@@ -291,3 +291,15 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
   elsewhere.
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BSeared%20and%20Seething%5D)
+
+## Lost Media
+
+- Mike Olson, *a.k.a. Red Dot Guy*, documentation
+
+  Mike Olson was the infmaous "Red Dot Guy," who would paint red dots below his
+  perceived first ascents. While many (most?) of these were already established
+  problems, there were a few that are likely to be credited to him. Mike Olson
+  did document his problems in a book or pamphlet. I have not been able to get
+  my hands on this pamplet, but would love the opportunity.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BRed%20Dot%20Guy%20Book%5D)
