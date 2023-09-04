@@ -70,11 +70,15 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
     seems likely to be in South Seas, near *Bueno* and such, or possibly in
     a sector of Baldy.
 
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BAss%20Slammer%5D)
+
 - *Nipple Pincher*, V6, Josh Dreher
 
     From Josh Dreher's 8a scorecard. The entry was made 31 October 2006 with
     the description "[s]weet one mover." See the previous info request for more
     commentary.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BNipple%20Pincher%5D)
 
 ## Emancipation Rockphormation
 
@@ -135,6 +139,8 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
     I cannot determine what this problem is. Is it possibly the same "shitty
     arete" as Josh Dreher's *Ass Slammer*?
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BFatty%20Magoo%5D)
 
 ## Old Baldy Mountain
 
