@@ -45,6 +45,97 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BIlluminati%5D)
 
+## Mount Rushmore
+
+- Kai Segrud problems
+
+    Both of the following problems were from Kai Segrunds 8a scorecard. Both
+    entries were made 19 November 2006, where *Mother Fuckin' Yeah* was also
+    marked as an FA. It is unclear exactly where these are, but they are likely
+    next to each other. They may not be in the Rushmore area, but rather in
+    "Breezy Point/North Seas" area, or even at Baldy. Kai was inconsistent with
+    where his entries were made on his scorecard.
+
+  - *Warmup #07601*, V3
+
+  - *Mother Fuckin' Yeah*, V2
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BKai%20Segrud%20Rushmore%20Problems%5D)
+
+- *Ass Slammer*, V6, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. The entry was made 31 October 2006 with
+    the description "shitty arete." It was accompanied by entries for *Torso
+    Fritter*, *Cheese Grater*, and *Nipple Pincher*. Therefore this problem
+    seems likely to be in South Seas, near *Bueno* and such, or possibly in
+    a sector of Baldy.
+
+- *Nipple Pincher*, V6, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. The entry was made 31 October 2006 with
+    the description "[s]weet one mover." See the previous info request for more
+    commentary.
+
+## Emancipation Rockphormation
+
+- *Black Hole*, V2 and *Duck Butt*, V4, Gary Carnes
+
+  *Black Hole* was from both Gary Carnes and Josh Dreher's 8a scorecards.
+  Gary's entry was made on 1 September 2009 with a description, "[f]un little
+  diddy above [J]osh's [*Fire Breathing Duck*.]"
+
+  *Duck Butt*, or *Black Hole Sit*, had entries by both Gary and Josh. Gary's
+  entry was made 14 September 2004. Josh's description was a bit more
+  revealing, "[s]econd ascent behind Gary... Fun sloper trav[erse.]"
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBlack%20Hole%5D)
+
+- *Dark Horse Boulder*
+
+  This boulder is thought to be located around *Hope and Change* and *Thin
+  Fin*. It has one known established problem, FA Michael Madsen. Grade is
+  thought to be moderate. The boulder itself has been described as "tucked
+  between two boulders. The pointy bit visibly sticks out when approaching
+  *Hope and Change*."
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BDark%20Horse%20Boulder%5D)
+
+## Chopping Block
+
+- *Tennis Shoe Tickle Fest*, V1, Josh Dreher
+
+    From Josh Dreher 8a scorecard. The entry was made 7 September 2009, with
+    the description, "[i]n North Park. Obvious slope traverse. Did in tennis shoes
+    after some fun route climbing..." That same day he had score card entries
+    for *The Lean Years,* 5.11- and a couple unnamed low-end sport climbs.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BTennis%20Shoe%20Tickle%20Fest%5D)
+
+## South Seas
+
+- *Fatty Magoo*, V5, Michael Madsen
+
+    This problem was listed on MP with the description...
+
+    > This problem is located by Bueno in the South Seas. Fatty Magoo was once
+    > ugly... and had no friends. Given a few years and some clean up she is a
+    > whole new person just like this block. Cleaned up nicely and was often
+    > overlooked or forgotten. If you are looking at Bueno this is the roof
+    > behind you and in the corner. Start down and low on the left side (
+    > closest to corner) Undercling and move to the sharp but good crimps. Crux
+    > is getting good feet and matching both hands on the 2nd crimp. DON'T BAIL
+    > TO EARLY. Take it out to the arête and then up. Good warm up problem
+    > close to the parking lot.
+
+    And the directions...
+
+    > by Bueno in South Seas. Obvious roof in the corner right by the natural
+    > spring / ice flow depending on season on the trail by bueno. Look left
+    > when on the trail.
+
+    I cannot determine what this problem is. Is it possibly the same "shitty
+    arete" as Josh Dreher's *Ass Slammer*?
+
 ## Old Baldy Mountain
 
 - *MC Ollie*, V4, Greg Parker
