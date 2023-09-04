@@ -303,3 +303,44 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
   my hands on this pamplet, but would love the opportunity.
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BRed%20Dot%20Guy%20Book%5D)
+
+## The advent of bouldering
+
+Problems which I have discovered from the 1950s and 1960s are few and far
+bewteen. These problems include those on the Campground Boulder, Inner
+Outlet, the Outlet Boulder, the Thimble, the Scab, and the Butterfly Boulder.
+There were a multitude of problems which I have failed to located or document
+accurately.
+
+### Herb and Jan Conn
+
+Though they may not be modern boulders, John Gill writes in his personal blog
+about Herb and Jan Conn...
+
+> In the Needles of South Dakota, starting in 1949, Jan and Herb Conn
+> practiced long ground-level traverses when not making first ascents of
+> spires.
+
+[Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BConn%20Routes%5D)
+
+### 1950s and 1960s
+
+Subsequently, he writes about introducing modern bouldering to the Hills in
+the 1950s...
+
+> I began visiting the Black Hills in the mid 1950s, introducing modern
+> bouldering there. 
+>
+> From the late 1950s through the mid 1960s a number of (then) difficult
+> problems were done on the coarse granite. 
+>
+> Other climbers contributing substantially to Needle bouldering during the
+> 1960s include Bob Kamps, Rich Goldstone, and Pete Cleveland.
+>
+> All the classic problems on the Sylvan Lake Boulder were done by the early
+> 1960s.  The Outlet Boulder was done a year or so later.
+
+I have not located any *concrete problems*, though I have located some
+formations, that can be directly attributed to anyone other than John Gill.
+
+[Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5B1950s-1960s%20Bouldering%5D)
