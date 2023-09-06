@@ -4,6 +4,7 @@ on:
     branches:
       - master
     paths:
+      - app.yaml
       - info-requests.md
       - '.github/workflows/deploy-info-requests.yml'
 
