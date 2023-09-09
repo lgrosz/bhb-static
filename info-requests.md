@@ -364,16 +364,6 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BDeceptively%20Easy%5D)
 
-- *Bald Ass Bob*, V3, Lee Terveen
-
-  A short problem described to be me by Lee Terveen. It is located near the
-  west entrance to the *Sanitarium*, much further west, downhill, than the
-  *Superfly Boulder*. It is supposedly a sit start on the far left side of a
-  boulder's face and trends right on slopers. It was also mentioned there was a
-  boulder problem "behind it" which Lee considered more featured.
-
-  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBald%20Ass%20Bob%5D)
-
 ## Sylvan Lake
 
 - *Seared and Seething*, V4-7
