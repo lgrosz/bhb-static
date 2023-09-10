@@ -330,6 +330,21 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BLeft%20of%20Fit%20in%20the%20Sloper%5D)
 
+- *Wayback*, V1/2, Dan Dewell
+
+  From Dan and Blake's 8a scorecards. Dan's entry was added 24 July 2005 at Mt
+  Baldy with the description "forgettable, at best", and makred as an FA. It
+  was accompanied by entries for *Jug City* and *Skypager*. Blake's entry was
+  added 6 August 2005 with the description "[h]mmmmm, appetizer." It was also
+  accompanied by entries for *Jug City* and *Skypager*.
+
+  Based on the adjacent entries, I think it's safe to say this problem is in,
+  near, or on the way to *Cell One Valley*. If it's on *A Tribe Called Quest*
+  boulder it could be the northeast arete or the north slab. It could also be
+  on a neighboring block.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BWayback%5D)
+
 - *Kung Fu Spotting*, V4/5
 
   From Chipper Phillips' 8a scorecard. Entry was added 11 September 2005 in an
