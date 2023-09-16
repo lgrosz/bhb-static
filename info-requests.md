@@ -80,6 +80,60 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BNipple%20Pincher%5D)
 
+- *Dashboard Confessions*, V3, Gary Carnes
+
+  From Gary Carnes' 8a scorecard. The entry was made on 15 April 2009 in the
+  *Marker* crag of *Mount Rushmore* with the description "Really, really fun
+  warm up or cool down! Superb." I am unsure if *Marker* in this case means
+  *Emancipation Rockphormation* or *Magna Carta*. This entry was accompanied by
+  entries for *Remember to Breath* and *Hands Down*.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BDashboard%20Confessions%5D)
+
+- *Remember to Breath*, V3, Gary Carnes
+
+  From Gary Carnes' 8a scorecard. The entry was made on 15 April 2009 in the
+  *Marker* crag of *Mount Rushmore* with the description "Sloper start to a
+  [strenuous] top out. Remember to breath." I am unsure if *Marker* in this
+  case means *Emancipation Rockphormation* or *Magna Carta*. This entry was
+  accompanied by entries for *Dashboard Confessions* and *Hands Down*.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BRemember%20to%20Breath%5D)
+
+- *Hands Down*, V5, Gary Carnes
+
+  From Gary Carnes' 8a scorecard. The entry was made on 15 April 2009 in the
+  *Marker* crag of *Mount Rushmore* with the description "Sharp hand match
+  crimps and crank it out. FUN!" I am unsure if *Marker* in this case means
+  *Emancipation Rockphormation* or *Magna Carta*. This entry was accompanied by
+  entries for *Dashboard Confessions* and *Remember to Breath*.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BHands%20Down%5D)
+
+- *Mixed Tape*, V5, Gary Carnes
+
+  From Gary Carnes' and Josh Dreher's 8a scorecard. Gary's entry was made on 16
+  April 2009 in the *Marker* crag of *Mount Rushmore* with the description "5
+  moves with a powerfull start." Josh's entry was made on 30 Semptember 2009
+  with the description "Second ascent. Gary's project is hard and it hurts and
+  it's reachy and it makes my bum wet. What?" I'm unsure if any of this
+  information is related to this problem (ha). I'm also unsure if *Marker* in
+  this case means *Emancipation Rockphormation* or *Magna Carta*. But it's
+  likely close to the previous three listings as Gary's entry was made a day
+  after those.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BMixed%20Tape%5D)
+
+- *Bug Bomb*, V2, Josh Dreher
+
+  From Josh Dreher's 8a scorecard. The entry was made 3 June 2009 in the
+  *Marker* crag of *Mount Rushmore* with the description "Back and forth twice
+  then done. Next to Gary's V0--- warmup...". This problem was accompanied by
+  entries for several other problems in *Emancipation Rockphormation* such as
+  *Rain Fingers* and *Cougar's Nest*.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBug%20Bomb%5D)
+
 ## Emancipation Rockphormation
 
 - *Black Hole*, V2 and *Duck Butt*, V4, Gary Carnes
