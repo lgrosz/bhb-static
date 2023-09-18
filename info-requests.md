@@ -196,6 +196,89 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
     [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BFatty%20Magoo%5D)
 
+## Breezy Point
+
+- *In the Ghetto*, V4, Bo Fuks
+
+    From Josh Dreher's 8a scorecard. Entry was made 1 November 2006 with the
+    description "Bo's problem downhill from gNar. Good V4." I think this is
+    likely an alias for a problem on the *Tennis Shoe Boulder*.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BIn%20the%20Ghetto%5D)
+
+- *Ms. Crabtree*, V7, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 5 November 2006 with the
+    description "weird fun." Entry was accompanied by entries for *Kansas City
+    Shuffle*, *Release*, *Zero Tolerance*, and *Sleven Caldera*. Based on the
+    problems *Kansas City Shuffle* and *Release*, I believe this problem to be
+    in the *Breezy Point* area.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BMs.%20Crabtree%5D)
+
+- *Zero Tolerance*, V6, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 5 November 2006 with the
+    description "rad roof." Entry was accompanied by entries for *Ms.
+    Crabtree*, *Kansas City Shuffle*, *Release*, and *Sleven Caldera*. Based on
+    the problems *Kansas City Shuffle* and *Release*, I believe this problem to
+    be in the *Breezy Point* area.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BZero%20Tolerance%5D)
+
+- *Sleven Caldera*, V6, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 5 November 2006 with the
+    description "two moves to a funky top-out." Entry was accompanied by
+    entries for *Ms. Crabtree*, *Kansas City Shuffle*, *Release*, and *Zero
+    Tolerance*. Based on the problems *Kansas City Shuffle* and *Release*, I
+    believe this problem to be in the *Breezy Point* area.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BSleven%20Caldera%5D)
+
+- *Too Much of a Bad Thing*, V7, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 5 November 2006 with the
+    description "good problem with a big move to a small edge. Scary top out."
+    Unlike the other entries made on this day, this problem was put in the
+    *Breezy Point* sector (though those other problems likely existed at
+    *Breezy Point* too.)
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BToo%20Much%20of%20a%20Bad%20Thing%5D)
+
+- *The Big Push*, V6, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 8 November 2006 with the
+    description "big last move." Entry was accompanied by an entry for
+    *McNabb's Arete*.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BThe%20Big%20Push%5D)
+
+- *If Trick Then Treat*, V7, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 10 November 2006 with the
+    description "weird and slightly powerful" in the *Breezy Point* sector.
+    This entry was accompanied by and entry for *Shelter From the Snow
+    Monsters*.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BIf%20Trick%20Then%20Treat%5D)
+
+- *Shelter From the Snow Monsters*, V7, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 10 November 2006 with the
+    description "fun traverse with a big last move" in the *Breezy Point*
+    sector. This entry was accompanied by an entry for *If Trick Then Treat*.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BIf%20Trick%20Then%20Treat%5D)
+
+- *Shiver Me Timbers*, V7, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 20 November 2006 with the
+    description "Shiver Me Timbers" in the *Breezy Point* sector. This entry
+    was accompanied by an entry for *Upwind*.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BShiver%20Me%20Timbers%5D)
+
 ## Old Baldy Mountain
 
 - *MC Ollie*, V4, Greg Parker
