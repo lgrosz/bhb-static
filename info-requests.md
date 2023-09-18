@@ -279,6 +279,22 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
     [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BShiver%20Me%20Timbers%5D)
 
+- *Flush Dyno*, V5, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 8 February 2007 with the
+    description "dyno to the right of Flush Arete" in the *Breezy Point*
+    sector. This entry was accompanied by an entry for *Flush Arete*.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BFlush%20Dyno%5D)
+
+- *Flush Arete*, V5, Josh Dreher
+
+    From Josh Dreher's 8a scorecard. Entry was made 8 February 2007 with the
+    description "arete downhill of gNar" in the *Breezy Point* sector. This
+    entry was accompanied by an entry for *Flush Dyno*.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BFlush%20Arete%5D)
+
 ## Old Baldy Mountain
 
 - *MC Ollie*, V4, Greg Parker
