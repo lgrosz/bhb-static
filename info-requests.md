@@ -134,7 +134,7 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBug%20Bomb%5D)
 
-## Emancipation Rockphormation
+### Emancipation Rockphormation
 
 - *Black Hole*, V2 and *Duck Butt*, V4, Gary Carnes
 
@@ -158,7 +158,7 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BDark%20Horse%20Boulder%5D)
 
-## Chopping Block
+### Chopping Block
 
 - *Tennis Shoe Tickle Fest*, V1, Josh Dreher
 
@@ -169,7 +169,7 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BTennis%20Shoe%20Tickle%20Fest%5D)
 
-## South Seas
+### South Seas
 
 - *Fatty Magoo*, V5, Michael Madsen
 
