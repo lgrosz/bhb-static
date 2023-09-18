@@ -9,6 +9,7 @@ jobs:
         with:
           args: >-
             --standalone
+            --toc
             --metadata title="Public Information Requests"
             --output=info-requests.html
             info-requests.md
