@@ -20,17 +20,6 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
 ## Iron Mountain Road
 
-- *Wrestling with a Grizzly Bear*, V8
-
-  From Dan Dewell's 8a logbook. Entry was added 5 June 2005 in an unknown
-  sector of Iron Mountain with the description "crimpy 5\*boulder." It was
-  rated 5/5 stars, implying it is quite a good problem. There were no other
-  problems ticked around the same time. The word *Grizzly* in the name implies
-  it may be in the *Grizzly Boulders* (northeastern *Land of the
-  Way-Too-Highs*) or along *Grizzly Bear Creek*.
-
-  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BWrestling%20with%20a%20Grizzly%20Bear%5D)
-
 - *Illuminati*, V4
 
   From Kai Segrud's 8a logbook. Entry was added 19 June 2009 in an uknown
