@@ -274,8 +274,8 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 - *Shiver Me Timbers*, V7, Josh Dreher
 
     From Josh Dreher's 8a scorecard. Entry was made 20 November 2006 with the
-    description "Shiver Me Timbers" in the *Breezy Point* sector. This entry
-    was accompanied by an entry for *Upwind*.
+    description "secluded roof" in the *Breezy Point* sector. This entry was
+    accompanied by an entry for *Upwind*.
 
     [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BShiver%20Me%20Timbers%5D)
 
