@@ -522,19 +522,6 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BKung%20Foo%20Spotting%5D)
 
-- *Stand and Deliver*, V8
-
-  From Dan Dewell's 8a scorecard. Entry was added 14 January 2006 in and
-  unknown sector of Mount Baldy with the description "big, tension-rich
-  movement." This entry was accompanied by an entry for *Sit Down and Be
-  Counted* and *Puff Daddy* on the same day. Therefore, I think it is likely
-  this problem is located in *Old Baldy's Melon Patch*. I think it's even more
-  likely the problem is located nearest *Sit Down and Be Counted* given how
-  similarly phrased its name is. It may even be a variation on the
-  aforementioned problem.
-
-  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BStand%20and%20Deliver%5D)
-
 - *Deceptively Easy*, V3
 
   From Kai Segrud's 8a scorecard. Entry was added 17 June 2006 at Old Baldy
