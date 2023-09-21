@@ -284,6 +284,16 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
     [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BFlush%20Arete%5D)
 
+### North Seas
+
+- More *Penthouse* problems
+
+    There was originally more than one line in the *Penthouse*. Aside from the
+    climb which starts in the schist slot on the left side of the face, what
+    are the other problems on this wall?
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BMore%20Penthouse%20problems%5D)
+
 ## Horsethief Lake
 
 - *The Midnight Cotiere of Sinister Intruders*
