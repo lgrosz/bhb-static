@@ -545,6 +545,18 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BSeared%20and%20Seething%5D)
 
+## Needles
+
+### Sign Boulders
+
+- Crack Boulder
+
+    Supposedly there's a boulder with an obvious crack and good landing located
+    "behind" (north of?) *Punks In the Park*. This boulder supposedly only has
+    one established problem as of 2016.
+
+    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BSign%20Boulders%20crack%20problem%5D)
+
 ## Lost Media
 
 - Mike Olson, *a.k.a. Red Dot Guy*, documentation
