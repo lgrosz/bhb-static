@@ -24,7 +24,7 @@ jobs:
             --standalone
             --toc
             --metadata title="Public Information Requests"
-            --output=www/info-requests.html
+            --output=www/index.html
             info-requests.md
       - uses: google-github-actions/auth@v1
         with:
