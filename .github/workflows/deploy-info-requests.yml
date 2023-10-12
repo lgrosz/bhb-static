@@ -5,6 +5,7 @@ on:
       - master
     paths:
       - app.yaml
+      - dispatch.yaml
       - info-requests.md
       - '.github/workflows/deploy-info-requests.yml'
 
