@@ -32,3 +32,6 @@ jobs:
           workload_identity_provider: 'projects/426631733351/locations/global/workloadIdentityPools/github-lgrosz-bhb-static/providers/github'
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v1
+        deliverables:
+          - app.yaml
+          - services.yaml
