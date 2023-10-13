@@ -33,6 +33,4 @@ jobs:
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v1
         with:
-          deliverables:
-            - app.yaml
-            - services.yaml
+          deliverables: app.yaml services.yaml
