@@ -403,8 +403,8 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   From Chuck Fryberger's 8a scorecard. Entry was added 4 July 2003, in an
   unknown sector of Black Hills with the description "FA orange jump start"
-  Given 3/5 stars. This entry is accompanied by an entry for *Goat Problem*,
-  see above for more related commentary.
+  Given 3/5 stars. This entry is accompanied by an entry for *Ego Stroke
+  Arete*, see above for more related commentary.
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BGoat%20Problem%5D)
 
