@@ -530,6 +530,15 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BDeceptively%20Easy%5D)
 
+- *Black Ninja Wall*
+
+  Described as a short steep cliff-band. Located "behind you" when looking at
+  Black Roughy. Any info regarding this formation would be appreciated.
+  Possibly developed by one or or multiple of the following... Blake Workman,
+  Dan Dewell, Jason McNabb.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBlack%20Ninja%20Wall%5D)
+
 ## Sylvan Lake
 
 - *Seared and Seething*, V4-7
