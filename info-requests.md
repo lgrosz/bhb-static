@@ -137,16 +137,6 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBlack%20Hole%5D)
 
-- *Dark Horse Boulder*
-
-  This boulder is thought to be located around *Hope and Change* and *Thin
-  Fin*. It has one known established problem, FA Michael Madsen. Grade is
-  thought to be moderate. The boulder itself has been described as "tucked
-  between two boulders. The pointy bit visibly sticks out when approaching
-  *Hope and Change*."
-
-  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BDark%20Horse%20Boulder%5D)
-
 ### Chopping Block
 
 - *Tennis Shoe Tickle Fest*, V1, Josh Dreher
