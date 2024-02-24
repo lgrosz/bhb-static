@@ -545,6 +545,34 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BSeared%20and%20Seething%5D)
 
+### Don Juan Boulder
+
+Reported problems on boulders to the north of the *Don Juan Boulder*, by Larry Shaffer, et al.
+
+[Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBoulders%20near%20Don%20Juan%5D)
+
+- *Fun Swings*
+
+  Reported sit down start on the northeast face. FA Larry Shaffer.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BFun%20Swings%5D)
+
+- *Chipped Down? and What's Up? V7/8* SD* 
+
+  Reported sit start, FA David Asscherick.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BChipped%20Down%20and%20What%22s%20Up%5D)
+
+- *Not So Moody*, V4/5
+
+   FA David Asscherick.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BNot%20So%20Moody%5D)
+
+- *Embracing Avalon*, V?
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BEmbracing%20Avalon%5D)
+
 ## Lost Media
 
 - Mike Olson, *a.k.a. Red Dot Guy*, documentation
