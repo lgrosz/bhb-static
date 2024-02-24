@@ -137,16 +137,6 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBlack%20Hole%5D)
 
-- *Dark Horse Boulder*
-
-  This boulder is thought to be located around *Hope and Change* and *Thin
-  Fin*. It has one known established problem, FA Michael Madsen. Grade is
-  thought to be moderate. The boulder itself has been described as "tucked
-  between two boulders. The pointy bit visibly sticks out when approaching
-  *Hope and Change*."
-
-  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BDark%20Horse%20Boulder%5D)
-
 ### Chopping Block
 
 - *Tennis Shoe Tickle Fest*, V1, Josh Dreher
@@ -403,8 +393,8 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
   From Chuck Fryberger's 8a scorecard. Entry was added 4 July 2003, in an
   unknown sector of Black Hills with the description "FA orange jump start"
-  Given 3/5 stars. This entry is accompanied by an entry for *Goat Problem*,
-  see above for more related commentary.
+  Given 3/5 stars. This entry is accompanied by an entry for *Ego Stroke
+  Arete*, see above for more related commentary.
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BGoat%20Problem%5D)
 
@@ -544,6 +534,34 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
   elsewhere.
 
   [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BSeared%20and%20Seething%5D)
+  
+  ### Don Juan Boulder
+
+Reported problems on boulders to the north of the *Don Juan Boulder*, by Larry Shaffer, et al.
+
+[Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBoulders%20near%20Don%20Juan%5D)
+
+- *Fun Swings*
+
+  Reported sit down start on the northeast face. FA Larry Shaffer.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BFun%20Swings%5D)
+
+- *Chipped Down? and What's Up? V7/8* SD* 
+
+  Reported sit start, FA David Asscherick.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BChipped%20Down%20and%20What%22s%20Up%5D)
+
+- *Not So Moody*, V4/5
+
+   FA David Asscherick.
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BNot%20So%20Moody%5D)
+
+- *Embracing Avalon*, V?
+
+  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BEmbracing%20Avalon%5D)
 
 ## Needles
 

@@ -5,6 +5,7 @@ on:
       - master
     paths:
       - app.yaml
+      - dispatch.yaml
       - info-requests.md
       - '.github/workflows/deploy-info-requests.yml'
 
@@ -24,10 +25,12 @@ jobs:
             --standalone
             --toc
             --metadata title="Public Information Requests"
-            --output=www/info-requests.html
+            --output=www/index.html
             info-requests.md
       - uses: google-github-actions/auth@v1
         with:
           workload_identity_provider: 'projects/426631733351/locations/global/workloadIdentityPools/github-lgrosz-bhb-static/providers/github'
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v1
+        with:
+          deliverables: app.yaml dispatch.yaml
