@@ -11,9 +11,9 @@ jobs:
             --standalone
             --toc
             --metadata title="Public Information Requests"
-            --output=info-requests.html
-            info-requests.md
+            --output=requests.html
+            requests.md
       - uses: actions/upload-artifact@v3
         with:
-          name: info-requests-html
-          path: info-requests.html
+          name: requests-html
+          path: requests.html

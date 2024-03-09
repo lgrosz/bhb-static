@@ -1,4 +1,4 @@
-service: info-requests
+service: requests
 runtime: python312
 
 handlers:
