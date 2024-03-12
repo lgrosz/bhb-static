@@ -1,7 +1,7 @@
 name: Generate documents
 on: [push]
 jobs:
-  Generate-Requests-HTML:
+  Generate-HTML:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -12,24 +12,8 @@ jobs:
             --toc
             --metadata title="Public Information Requests"
             --output=requests.html
-            requests/requests.md
+            requests.md
       - uses: actions/upload-artifact@v4
         with:
           name: requests-html
           path: requests.html
-  Generate-Errors-HTML:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: docker://pandoc/core:3.1
-        with:
-          args: >-
-            --standalone
-            --toc
-            --metadata title="Black Hills Bouldering Publication Errors"
-            --output=errors.html
-            errors/errors.md
-      - uses: actions/upload-artifact@v4
-        with:
-          name: errors-html
-          path: errors.html
