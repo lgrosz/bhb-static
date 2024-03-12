@@ -1,4 +1,4 @@
-name: Deploy information requests page
+name: Deploy errors page
 on:
   push:
     branches:
