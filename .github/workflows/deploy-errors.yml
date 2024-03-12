@@ -5,7 +5,6 @@ on:
       - master
     paths:
       - errors/app.yaml
-      - errors/dispatch.yaml
       - errors/errors.md
       - '.github/workflows/deploy-errors.yml'
 
@@ -33,4 +32,4 @@ jobs:
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v2
         with:
-          deliverables: errors/app.yaml errors/dispatch.yaml
+          deliverables: errors/app.yaml
