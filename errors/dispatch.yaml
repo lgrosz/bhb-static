@@ -1,0 +1,3 @@
+dispatch:
+  - url: "errors.bhbouldering.com/*"
+    service: errors
