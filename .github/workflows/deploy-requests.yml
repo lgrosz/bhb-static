@@ -1,11 +1,12 @@
-name: Deploy requests page
+name: Deploy information requests page
 on:
   push:
     branches:
       - master
     paths:
-      - requests/app.yaml
-      - requests/requests.md
+      - app.yaml
+      - dispatch.yaml
+      - requests.md
       - '.github/workflows/deploy-requests.yml'
 
 jobs:
@@ -25,11 +26,11 @@ jobs:
             --toc
             --metadata title="Public Information Requests"
             --output=www/index.html
-            requests/requests.md
+            requests.md
       - uses: google-github-actions/auth@v2
         with:
           workload_identity_provider: 'projects/426631733351/locations/global/workloadIdentityPools/github-lgrosz-bhb-static/providers/github'
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v2
         with:
-          deliverables: requests/app.yaml
+          deliverables: app.yaml dispatch.yaml

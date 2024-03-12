@@ -1,6 +1,3 @@
 dispatch:
   - url: "requests.bhbouldering.com/*"
     service: requests
-
-  - url: "errors.bhbouldering.com/*"
-    service: errors
