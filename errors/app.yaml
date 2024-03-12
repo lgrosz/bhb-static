@@ -1,0 +1,8 @@
+service: errors
+runtime: python312
+
+handlers:
+- url: /(.*)
+  static_files: www/index.html
+  upload: www/index.html
+  secure: always
