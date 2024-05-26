@@ -4,7 +4,7 @@ on:
     branches:
       - master
     paths:
-      - app.yaml
+      - requests.yaml
       - dispatch.yaml
       - requests.md
       - '.github/workflows/deploy-requests.yml'
@@ -33,4 +33,4 @@ jobs:
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v2
         with:
-          deliverables: app.yaml dispatch.yaml
+          deliverables: requests.yaml dispatch.yaml
