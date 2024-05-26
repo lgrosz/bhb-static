@@ -1,0 +1,35 @@
+name: Deploy information errors page
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - errors.yaml
+      - errors.md
+      - '.github/workflows/deploy-errors.yml'
+
+jobs:
+  job:
+    name: Deploy public info errors
+    runs-on: ubuntu-latest
+    permissions:
+      contents: 'read'
+      id-token: 'write'
+    steps:
+      - uses: actions/checkout@v4
+      - run: mkdir www
+      - uses: docker://pandoc/core:3.1
+        with:
+          args: >-
+            --standalone
+            --toc
+            --metadata title="Black Hills Bouldering Media Errors"
+            --output=www/index.html
+            errors.md
+      - uses: google-github-actions/auth@v2
+        with:
+          workload_identity_provider: 'projects/426631733351/locations/global/workloadIdentityPools/github-lgrosz-bhb-static/providers/github'
+          service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
+      - uses: google-github-actions/deploy-appengine@v2
+        with:
+          deliverables: errors.yaml
