@@ -1,16 +1,16 @@
-name: Deploy information requests page
+name: Deploy information errors page
 on:
   push:
     branches:
       - master
     paths:
-      - requests.yaml
-      - requests.md
-      - '.github/workflows/deploy-requests.yml'
+      - errors.yaml
+      - errors.md
+      - '.github/workflows/deploy-errors.yml'
 
 jobs:
   job:
-    name: Deploy public info requests
+    name: Deploy public info errors
     runs-on: ubuntu-latest
     permissions:
       contents: 'read'
@@ -23,13 +23,13 @@ jobs:
           args: >-
             --standalone
             --toc
-            --metadata title="Public Information Requests"
+            --metadata title="Black Hills Bouldering Media Errors"
             --output=www/index.html
-            requests.md
+            errors.md
       - uses: google-github-actions/auth@v2
         with:
           workload_identity_provider: 'projects/426631733351/locations/global/workloadIdentityPools/github-lgrosz-bhb-static/providers/github'
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v2
         with:
-          deliverables: requests.yaml
+          deliverables: errors.yaml

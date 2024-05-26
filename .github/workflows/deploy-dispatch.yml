@@ -1,35 +1,26 @@
-name: Deploy information requests page
+name: Deploy dispatch rules
 on:
   push:
     branches:
       - master
     paths:
-      - requests.yaml
-      - requests.md
-      - '.github/workflows/deploy-requests.yml'
+      - dispatch.yaml
+      - '.github/workflows/deploy-dispatch.yml'
 
 jobs:
   job:
-    name: Deploy public info requests
+    name: Deploy dispatch rules
     runs-on: ubuntu-latest
     permissions:
       contents: 'read'
       id-token: 'write'
     steps:
       - uses: actions/checkout@v4
-      - run: mkdir www
-      - uses: docker://pandoc/core:3.1
-        with:
-          args: >-
-            --standalone
-            --toc
-            --metadata title="Public Information Requests"
-            --output=www/index.html
-            requests.md
       - uses: google-github-actions/auth@v2
         with:
           workload_identity_provider: 'projects/426631733351/locations/global/workloadIdentityPools/github-lgrosz-bhb-static/providers/github'
           service_account: 'bhb-static-github-deploy@bhbh-5f0a6.iam.gserviceaccount.com'
       - uses: google-github-actions/deploy-appengine@v2
         with:
-          deliverables: requests.yaml
+          deliverables: dispatch.yaml
+
