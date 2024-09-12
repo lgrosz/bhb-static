@@ -6,6 +6,7 @@ on:
     paths:
       - errors.yaml
       - errors.md
+      - 9798987979815-rapid-city_doty-dungeon_1.json
       - '.github/workflows/deploy-errors.yml'
 
 jobs:

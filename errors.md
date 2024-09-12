@@ -1,3 +1,18 @@
+---
+header-includes:
+  - >
+      <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""/>
+  - >
+      <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""></script>
+  - > 
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/2.1.0/gpx.min.js"
+      crossorigin=""></script>
+---
+
 # Errors
 
 This page contains errors in Black Hills Bouldering media.
@@ -17,6 +32,58 @@ This page contains errors in Black Hills Bouldering media.
    ... while these directions are simple and would eventually get one to the cave, it would be a miserably steep bushwack. What follows is a corrected set of directions.
 
    Park at the *Doty Springs* trailhead ([44.131841, -103.401384](https://maps.google.com/maps?t=k&q=loc:44.131841+-103.401384)). Pass through the gate and follow the well-defined trail south 425 yards. Instead of following the u-turn on the main trail, stay straight on FS-414.4E (marked by a brown carsonite sign as of 2024). Follow this forest service road for about 75 yards southwest and uphill toward a private driveway. *Do not hike* on the private driveway. Paralleling the driveway, hike south-southeast along the flat plateau about 350 yards. At this point, the plateau descends gently towards *Boxelder Creek*. Hike southeast another 250 yards towards the creek. One may intersect a north-south running trail adjacent to the creek. Navigate this trail, or the creek bed itself, to locate the cave in the southeastern bend of the horseshoe ([44.124619, -103.397029](https://maps.google.com/maps?t=k&q=loc:44.124619+-103.397029)). When descending from the plateau, err south as it much easier to locate the cave while walking north than walking south.
+
+<div id="map" style="height: 360px;"></div>
+<script>
+    const map = L.map('map');
+
+    var usgsTopo = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>',
+        maxNativeZoom: 16,
+    });
+
+    var usgsImagery = L.tileLayer('https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/{z}/{y}/{x}', {
+        attribution: 'Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>',
+        maxNativeZoom: 16,
+    });
+
+    var tileLayers = {
+        "USGS Topo": usgsTopo,
+        "USGS Imagery": usgsImagery
+    }
+
+    L.control.layers(tileLayers).addTo(map);
+
+    // Default
+    usgsTopo.addTo(map);
+
+    // URL to your GPX file or the GPX itself as a XML string.
+    const url = './9798987979815-rapid-city_doty-dungeon_1.json';
+
+    fetch(url)
+        .then(response => response.json())
+        .then(data => {
+            var layer = L.geoJSON(data, {
+                onEachFeature: (feature, layer) => {
+                    layer.bindPopup(`<p>${feature.properties.name}</p>`);
+                }
+            }).addTo(map);
+
+            map.fitBounds(layer.getBounds());
+        })
+    .catch(error => {
+            console.error('Error loading GeoJSON data:', error);
+        });
+
+    map.on('load', function () {
+        var center = map.getCenter();
+
+        L.popup()
+            .setLatLng(center)
+            .setContent('Click on map features for more information.')
+            .openOn(map);
+    });
+</script>
 
 ### Breezy Point
 
