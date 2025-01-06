@@ -23,7 +23,7 @@ This page contains errors in Black Hills Bouldering media.
 1. **Incorrect start**
 
    In the book, the problem is described as sharing a start with _The Deity_
-   (6) on the right side of the wash, beginning from a sit start. Originally,
+   \(6\) on the right side of the wash, beginning from a sit start. Originally,
    it was established using a squat/sit start, with the left hand on a
    down-pulling sloper and the right hand on a slightly lower crimp, positioned
    directly below the problem’s finish.
