@@ -58,7 +58,7 @@ This page contains errors in Black Hills Bouldering media.
     usgsTopo.addTo(map);
 
     // URL to your GPX file or the GPX itself as a XML string.
-    const url = './9798987979815-rapid-city_doty-dungeon_1.json';
+    const url = '/9798987979815-rapid-city_doty-dungeon_1.json';
 
     fetch(url)
         .then(response => response.json())
