@@ -6,3 +6,9 @@ handlers:
   static_files: www/index.html
   upload: www/index.html
   secure: always
+
+# This file is accesses relatively in index.html
+- url: /www/9798987979815-rapid-city_doty-dungeon_1.json
+  static_files: 9798987979815-rapid-city_doty-dungeon_1.json
+  upload: 9798987979815-rapid-city_doty-dungeon_1.json
+  secure: always
