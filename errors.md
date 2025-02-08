@@ -109,6 +109,37 @@ This page contains errors in Black Hills Bouldering media.
    down-pulling sloper and the right hand on a slightly lower crimp, positioned
    directly below the problem’s finish.
 
+### Sylvan Lake
+
+#### The Outlets
+
+##### Eden Boulder
+
+> [!todo]
+> It appears I assumed too much about the first-ascentionists of problems on
+> the Eden Boulder. Jason McNabb approached me today (2025.2.8) at the gym and
+> specifically called out that what I have listed as _Modus Chode_ in the book
+> (_Modous Chode as per Scott Hahn's 8a scorecard and provided hand drawn
+> topo) was originally called _Modest Chode_, likely coined by someome in the
+> "Spearfish crew" (Carl Gostola was mentioned by name) regarding a shirt that
+> Jason wore.
+>
+> I pressed Jason further and it appears that he likely FAd _Ace and Gary_ and
+> _Modest Chode_. Upon further review of Scott's 8a scorecard, Scott claimed FA
+> of
+>
+> - _The Sodomite_
+> - _Midget Molester_
+> - _Cho Mo_
+>
+> Scott logged but did not state he made the FA of _The Rapist_, though I think
+> it is still likely he made the FA of this problem.
+>
+> Jason also mentioned that Brandon and Amanda Taglioli may have discovered the
+> boulder and were likely trying the _Sodomite_ prior to Scott establishing the
+> line. Jason heard they were going to call the boulder or a problem on it
+> "Asp," like a biblical reference.
+
 ### Report errors
 
 To report errors, please [email me](mailto:logan.grosz@gmail.com?subject=%5BBlack%20Hills%20Bouldering Errors%5D%5B9798987979815%5D).
