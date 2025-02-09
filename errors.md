@@ -85,6 +85,18 @@ This page contains errors in Black Hills Bouldering media.
     });
 </script>
 
+### Old Baldy Mountain
+
+#### Old Baldy's Melon Patch
+
+##### Caddyshack Boulder
+
+> ![todo]
+> Jason McNabb approached me today (2025.2.8) at the gym and mentioned that
+> _Puff Daddy_ is actually on the steep face left of _Nunan_. Blake kind of
+> corroborated this after I reached out, but in January 2023 he said it was
+> _Greasy Grimy Gopher Guts_ into _Spaulding_.. who knows anymore.
+
 ### Breezy Point
 
 #### North Seas
