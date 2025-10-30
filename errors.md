@@ -93,7 +93,7 @@ This page contains errors in Black Hills Bouldering media.
 
 ###### Problem 3
 
-This unconfirmed problem has been confirmed as of 29 Oct 2025. The problem as listed in the book doesn't make much sense. There exists two destinct lines. Both sit start on the left facing sidepull features. The first climbs up then trend left into the undercut flake, topping out above a suspect block at the top of the flake (~V5); the second climbs up then traverses right through decievingly poor edges, culminating in a potentially large move to a jug, topping out near the adjacent boulder. It remains unclear if these problems were done by parties prior to date.
+This unconfirmed problem has been confirmed as of 29 Oct 2025. The problem as listed in the book doesn't make much sense. There exists two destinct lines. Both sit start on the left facing sidepull features. The first climbs up then trend left into the undercut flake, topping out above a suspect block at the top of the flake (~V5); the second climbs up then traverses right through decievingly poor edges, culminating in a potentially large move to a jug, topping out near the adjacent boulder (~V7). It remains unclear if these problems were done by parties prior to date.
 
 ### Breezy Point
 
