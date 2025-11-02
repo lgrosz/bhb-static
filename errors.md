@@ -93,7 +93,9 @@ This page contains errors in Black Hills Bouldering media.
 
 ###### Problem 3
 
-This unconfirmed problem has been confirmed as of 29 Oct 2025. The problem as listed in the book doesn't make much sense. There exists two destinct lines. Both sit start on the left facing sidepull features. The first climbs up then trend left into the undercut flake, topping out above a suspect block at the top of the flake (~V5); the second climbs up then traverses right through decievingly poor edges, culminating in a potentially large move to a jug, topping out near the adjacent boulder (~V7). It remains unclear if these problems were done by parties prior to date.
+1. **Unconfirmed problem**
+
+   This unconfirmed problem has been confirmed as of 29 Oct 2025. The problem as listed in the book doesn't make much sense. There exists two destinct lines. Both sit start on the left facing sidepull features. The first climbs up then trend left into the undercut flake, topping out above a suspect block at the top of the flake (~V5); the second climbs up then traverses right through decievingly poor edges, culminating in a potentially large move to a jug, topping out near the adjacent boulder (~V7). It remains unclear if these problems were done by parties prior to date.
 
 ### Breezy Point
 
@@ -117,7 +119,9 @@ This unconfirmed problem has been confirmed as of 29 Oct 2025. The problem as li
    \(6\) on the right side of the wash, beginning from a sit start. Originally,
    it was established using a squat/sit start, with the left hand on a
    down-pulling sloper and the right hand on a slightly lower crimp, positioned
-   directly below the problem’s finish.
+   directly below the problem’s finish. The problem as listed in the book adds
+   moved to the original problem and is arguably harder, but could be
+   classified as a link-up.
 
 ### Report errors
 
