@@ -97,6 +97,16 @@ This page contains errors in Black Hills Bouldering media.
 
    The alias "Fine Young \[Cannibals\]" was the original name that was logged on [8a](8a.nu) but has been retconned by the first ascentionist and is no longer listed under that name on any platform.
 
+###### Problem 8
+
+1. **Start change**
+
+   The hollow block which this problem originally started on has been removed. This problem now most logically starts from the jug, to the right, on _Spruce It Up_. The difficulty remains similar.
+
+2. **First ascent**
+
+   The first known ascent of this problem was by Murray LaHood-Burns.
+
 ### Old Baldy Mountain
 
 #### Lafferty Dome
