@@ -21,6 +21,24 @@ This page contains errors in Black Hills Bouldering media.
 
 ### Rapid City
 
+#### Bone Collector
+
+##### Low Side
+
+###### Conspiracy Boulders
+
+###### Dark Side of the Rainbow (Stand)
+
+1. **Incorrect name**
+
+   The name listed is "Dark Side of the Moon (Stand)." The name given by the first ascensionist is "Dark Side of the Rainbow (Stand)."
+
+###### Dark Side of the Rainbow
+
+1. **Incorrect name**
+
+   The name listed is "Dark Side of the Moon." The name given by the first ascensionist is "Dark Side of the Rainbow."
+
 #### Doty Dungeon
 
 1. **Inaccurate directions**
