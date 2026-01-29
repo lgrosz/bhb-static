@@ -286,16 +286,6 @@ These requests are not documented, as unconfirmed or otherwise, within Black Hil
 
 ## Horsethief Lake
 
-- *The Midnight Cotiere of Sinister Intruders*
-
-    From Michael Madsen's 8a scorecard. The entry was made 8 January 2014 with
-    the description "SDS on crimps and work good crimps but bad feet. Jump for
-    the top." The entry was logged in a sector of *Horsethief Lake* labeled
-    *Talus Field*.
-
-    [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BThe%20Midnight%20Cotiere%20of%20Sinister%20Intruders%5D)
-
-
 - Fryberger's Horsethief Traverse, V10, Chuck Fryberger
 
     It is rumored Chuck Fryberger established a V10 traverse around the
