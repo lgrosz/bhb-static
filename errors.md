@@ -163,6 +163,16 @@ This page contains errors in Black Hills Bouldering media.
    moved to the original problem and is arguably harder, but could be
    classified as a link-up.
 
+### Horsethief Lake
+
+#### Horsethief Lake Proper
+
+##### Punishment Boulder
+
+1. **Failure to mention eliminated features**
+
+   Primarily affecting _Cat O' Nine Tails_ and the problem to the climber's right, the detached blocks at the base are considered "off" for the listed grades.
+
 ### Report errors
 
 To report errors, please [email me](mailto:logan.grosz@gmail.com?subject=%5BBlack%20Hills%20Bouldering Errors%5D%5B9798987979815%5D).
