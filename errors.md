@@ -125,6 +125,18 @@ This page contains errors in Black Hills Bouldering media.
 
    The first known ascent of this problem was by Murray LaHood-Burns.
 
+### Mount Rushmore
+
+#### Chopping Block
+
+##### Three Amigos Boulder
+
+###### Dusty Bottom
+
+1. **Incorrect Location**
+
+    The current listing and topo indicate this problem is in the featureless dish on the corner, to the right of _Lucky Day_. This is incorrect. It actually is in the wash several feet to the right of described (and to the left of _A Fall Farewell_).
+
 ### Old Baldy Mountain
 
 #### Lafferty Dome
