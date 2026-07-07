@@ -172,8 +172,8 @@ This page contains errors in Black Hills Bouldering media.
    it was established using a squat/sit start, with the left hand on a
    down-pulling sloper and the right hand on a slightly lower crimp, positioned
    directly below the problem’s finish. The problem as listed in the book adds
-   moved to the original problem and is arguably harder, but could be
-   classified as a link-up.
+   moves to the original problem and is arguably harder, but could be
+   classified as an alternative start.
 
 ### Horsethief Lake
 
