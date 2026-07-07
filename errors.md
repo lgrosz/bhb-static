@@ -19,6 +19,18 @@ This page contains errors in Black Hills Bouldering media.
 
 ## *Black Hills Bouldering* (ISBN-13: 9798987979815)
 
+### Spearfish Canyon
+
+#### Latchstrings
+
+##### Latchstring Boulder
+
+###### Strung Out
+
+1. **Typo in description**
+
+The description says "finish for _Strung Out_" when it should say to finish for _Stringline_, the leftmost problem on the face.
+
 ### Rapid City
 
 #### Bone Collector
