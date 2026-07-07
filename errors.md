@@ -39,13 +39,13 @@ The description says "finish for _Strung Out_" when it should say to finish for 
 
 ###### Conspiracy Boulders
 
-###### Dark Side of the Rainbow (Stand)
+####### Dark Side of the Rainbow (Stand)
 
 1. **Incorrect name**
 
    The name listed is "Dark Side of the Moon (Stand)." The name given by the first ascensionist is "Dark Side of the Rainbow (Stand)."
 
-###### Dark Side of the Rainbow
+####### Dark Side of the Rainbow
 
 1. **Incorrect name**
 
