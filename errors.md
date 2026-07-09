@@ -149,6 +149,12 @@ The description says "finish for _Strung Out_" when it should say to finish for 
 
     The current listing and topo indicate this problem is in the featureless dish on the corner, to the right of _Lucky Day_. This is incorrect. It actually is in the wash several feet to the right of described (and to the left of _A Fall Farewell_).
 
+###### Quiet Desperation
+
+1. **Bad description**
+
+    The current description states this problem shares a start with itself. It should state it shares a start with _El Guapo_.
+
 ### Old Baldy Mountain
 
 #### Lafferty Dome
