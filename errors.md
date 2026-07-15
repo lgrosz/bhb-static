@@ -115,6 +115,18 @@ The description says "finish for _Strung Out_" when it should say to finish for 
     });
 </script>
 
+#### Rock Maze
+
+##### Central Area
+
+###### Plugged Nickel Boulder
+
+###### Plugged Nickel
+
+1. **Incorrect Alias**
+
+  The alias "Oops I Did It Again" is actually a distinct problem located northwardly adjacent to the _Breaking Point Boulder_ on a short overhanging roof.
+
 ### Iron Mountain Road
 
 #### Turtle Dome
