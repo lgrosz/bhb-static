@@ -2,7 +2,7 @@ name: Deploy information errors page
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - errors.yaml
       - errors.md

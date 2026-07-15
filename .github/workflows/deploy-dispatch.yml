@@ -2,7 +2,7 @@ name: Deploy dispatch rules
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - dispatch.yaml
       - '.github/workflows/deploy-dispatch.yml'
