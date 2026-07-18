@@ -37,6 +37,12 @@ The description says "finish for _Strung Out_" when it should say to finish for 
 
 ##### Low Side
 
+###### Perspective Boulder
+
+1. **Incorrect name**
+
+   The name listed is "Perspectives Boulder." The name given by Evan Hays is "Perspective Boulder."
+
 ###### Conspiracy Boulders
 
 ####### Dark Side of the Rainbow (Stand)
