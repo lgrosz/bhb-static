@@ -157,6 +157,16 @@ The description says "finish for _Strung Out_" when it should say to finish for 
 
 ### Old Baldy Mountain
 
+#### Almost There Boulders
+
+##### Halfway Boulder
+
+###### Problem 7
+
+1. **Typo in description**
+
+   The description says to start for <<7>>, when it should say start for _Warm-Up at the Halfways_.
+
 #### Lafferty Dome
 
 ##### N.N. 3
