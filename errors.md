@@ -127,7 +127,7 @@ This formation and problem are incorrectly listed. _Tub o' Lard_ as established 
 
 > Stand start on the tiered shelves and follow sloping edges to a comfortable jug. Continue straight up past the minor apex on the wall.
 
-The problem listed in the book is considered a separate problem. I has since been climbed by Duncan Stoebner in September 2024.
+The problem listed in the book is considered a separate problem. It has since been climbed by Duncan Stoebner in September 2024.
 
 #### Turtle Dome
 
