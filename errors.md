@@ -117,6 +117,18 @@ The description says "finish for _Strung Out_" when it should say to finish for 
 
 ### Iron Mountain Road
 
+#### First Pigtail Bridge
+
+##### First Pigtail Bridge Proper
+
+###### Tub o' Lard
+
+This formation and problem are incorrectly listed. _Tub o' Lard_ as established by Aidan Mickleburgh is located on the same formation as and to the left of _Quarter Pounder_. It can be described like so:
+
+> Stand start on the tiered shelves and follow sloping edges to a comfortable jug. Continue straight up past the minor apex on the wall.
+
+The problem listed in the book is considered a separate problem. I has since been climbed by Duncan Stoebner in September 2024.
+
 #### Turtle Dome
 
 ##### The Woodshop
