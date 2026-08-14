@@ -12,12 +12,6 @@ Please [email me](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D) wit
 
 These requests are not documented, as unconfirmed or otherwise, within Black Hills Bouldering publications.
 
-- *Backcountry Lava Game*, V6
-
-  From Justin Jaeger's 8a logbook. Though not marked as one, this is likely a Justin Jaeger first ascent. Entry was added 1 January 2003 in an unknown sector of the Black Hills with the description "cruxylog+rockjumping." To me, this implies the approach was less than ideal. There were no other entries from the Black Hills around that same time from Justin.
-
-  [Email me with more information.](mailto:logan.grosz@gmail.com?subject=%5BInfo%20Request%5D%5BBackcountry%20Lava%20Game%5D)
-
 ## Iron Mountain Road
 
 - *Illuminati*, V4

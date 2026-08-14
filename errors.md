@@ -19,6 +19,13 @@ This page contains errors in Black Hills Bouldering media.
 
 ## *Black Hills Bouldering* (ISBN-13: 9798987979815)
 
+### Misspelled names
+
+These are genuinely the most embarrassing errors and I apologize to anyone affected:
+
+- **Matt Tschohl**: I had misspelled Matt's name on his sole FA of _King of Town_.
+- **Chip Phillips**: I misspelled Chip's name on several of his FAs, though others are spelled correctly.
+
 ### Spearfish Canyon
 
 #### Latchstrings
